@@ -1480,13 +1480,12 @@
     
         todo:{
             "5cc6cd31-76b9-45aa-b8bc-d43ae03b0abe": {
+                task: "Baranje Rabota",
                 description: "da najdam Rabota",
-                id: "m9",
                 completed: false,
                 _id: "5cc6cd31-76b9-45aa-b8bc-d43ae03b0abe"
             },
             "f6634d26-c877-45ff-9e58-75f309c0e21c": {
-                id: 1,
                 task: "Buy groceries",
                 completed: false,
                 _id: "f6634d26-c877-45ff-9e58-75f309c0e21c"
@@ -1504,19 +1503,19 @@
                 _id: "893c8b6b-3c74-46d9-9983-0d84bdde71ae"
             },
             "ae94a2a7-fed5-4f8c-b326-e9103fed2eac": {
-                name: "Go for a run",
+                task: "Go for a run",
                 completed: false,
                 description: "Go for a run",
                 _id: "ae94a2a7-fed5-4f8c-b326-e9103fed2eac"
             },
             "b22b5fcd-2639-4424-a4e4-fd4b9317738e": {
-                name: "Write report",
+                task: "Write report",
                 completed: false,
                 description: "Write report",
                 _id: "b22b5fcd-2639-4424-a4e4-fd4b9317738e"
             },
             "c046193b-3127-4ed1-af37-dc565b0811f8": {
-                name: "Attend meeting",
+                task: "Attend meeting",
                 completed: false,
                 description: "Attend meeting",
                 _id: "c046193b-3127-4ed1-af37-dc565b0811f8"
