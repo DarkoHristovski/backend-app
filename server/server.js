@@ -1477,10 +1477,57 @@
     			_id: "bdabf5e9-23be-40a1-9f14-9117b6702a9d"
     		}
     	},
-    	furniture: {
-    	},
-    	orders: {
-    	},
+    
+        todo:{
+            "5cc6cd31-76b9-45aa-b8bc-d43ae03b0abe": {
+                description: "da najdam Rabota",
+                id: "m9",
+                completed: false,
+                _id: "5cc6cd31-76b9-45aa-b8bc-d43ae03b0abe"
+            },
+            "f6634d26-c877-45ff-9e58-75f309c0e21c": {
+                id: 1,
+                task: "Buy groceries",
+                completed: false,
+                _id: "f6634d26-c877-45ff-9e58-75f309c0e21c"
+            },
+            "66ad95ba-82fc-48f2-a8e0-33efa3f86545": {
+                task: "Pay bills",
+                completed: false,
+                description: "Pay bills",
+                _id: "66ad95ba-82fc-48f2-a8e0-33efa3f86545"
+            },
+            "893c8b6b-3c74-46d9-9983-0d84bdde71ae": {
+                task: "Call the dentist",
+                completed: false,
+                description: "Call the dentist",
+                _id: "893c8b6b-3c74-46d9-9983-0d84bdde71ae"
+            },
+            "ae94a2a7-fed5-4f8c-b326-e9103fed2eac": {
+                name: "Go for a run",
+                completed: false,
+                description: "Go for a run",
+                _id: "ae94a2a7-fed5-4f8c-b326-e9103fed2eac"
+            },
+            "b22b5fcd-2639-4424-a4e4-fd4b9317738e": {
+                name: "Write report",
+                completed: false,
+                description: "Write report",
+                _id: "b22b5fcd-2639-4424-a4e4-fd4b9317738e"
+            },
+            "c046193b-3127-4ed1-af37-dc565b0811f8": {
+                name: "Attend meeting",
+                completed: false,
+                description: "Attend meeting",
+                _id: "c046193b-3127-4ed1-af37-dc565b0811f8"
+            },
+            "61824f5f-887e-48c7-825f-91a7f77538ba": {
+                task: "Clean the house",
+                completed: false,
+                description: "Clean the house",
+                _id: "61824f5f-887e-48c7-825f-91a7f77538ba"
+            }
+        },
     	movies: {
     		"1240549d-f0e0-497e-ab99-eb8f703713d7": {
     			_ownerId: "847ec027-f659-4086-8032-5173e2f9c93a",
